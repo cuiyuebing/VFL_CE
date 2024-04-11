@@ -1,8 +1,6 @@
-# VFL_CE
-
 # A Survey on Contribution Evaluation in Vertical Federated Learning
 
-Welcome to the GitHub repo of our [survey paper]  on VFL CE!
+Welcome to the GitHub repo of our [survey paper] on contribution evaluation in VFL!
 
 ## Taxonomy Overview
 
