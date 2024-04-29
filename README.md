@@ -6,6 +6,9 @@ Welcome to the GitHub repo of our [survey paper] on contribution evaluation in V
 
 ![tree.png](tree.png)
 
+## Contribution Evaluation Workflow
+![figure.png](figure.png)
+
 
 ## Contribution Evaluation in the Lifecycle of VFL
 
