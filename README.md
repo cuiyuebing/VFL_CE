@@ -1,6 +1,6 @@
 # A Survey on Contribution Evaluation in Vertical Federated Learning
 
-Welcome to the GitHub repo of our [survey paper] on contribution evaluation in VFL!
+Welcome to the GitHub repo of our [survey paper](https://arxiv.org/abs/2405.02364) on contribution evaluation in VFL!
 
 ## Taxonomy Overview
 
